@@ -6,7 +6,7 @@ RUN set -ex; \
     apt-get update \
     && apt-get install -y --no-install-recommends \
         dbus-x11 \
-        leafpad \
+        
         xarchiver \
         xvkbd \
 	tmux \
